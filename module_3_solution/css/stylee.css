@@ -1,6 +1,6 @@
 body {
   font-size: 16px;
-  color: #fff;
+  color: #00ff;
   background-color: #61122f;
   font-family: 'Oxygen', sans-serif;
 }
@@ -10,7 +10,7 @@ body {
 
 /** HEADER **/
 #header-nav {
-  background-color: black;
+  background-color: green;
   border-radius: 0;
   border: 0;
 }
